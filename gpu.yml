@@ -21,6 +21,7 @@ dependencies:
     - h5py==2.10.0
     - keras==2.3.1
     - IPython==7.10.1
+    - imgaug
     - pip:
         - bayesian-optimization
         - gym==0.15.4
