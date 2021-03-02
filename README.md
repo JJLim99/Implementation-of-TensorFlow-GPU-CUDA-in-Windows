@@ -16,6 +16,6 @@ conda env create -v -f gpu.yml <br/>
 conda activate gpu<br/>
 python -m ipykernel install --user --name gpu --display-name "Python (GPU)" <br/>
 <br/>
-# To test you environment, copy the script from https://github.com/JJLim99/Implementation-of-TensorFlow-GPU-CUDA-in-Windows/blob/master/Version.ipynb and paste it to your new python script in jupyter notebook. (Remember that you must in the tensorflow environment) 
+# To test your environment, copy the script from https://github.com/JJLim99/Implementation-of-TensorFlow-GPU-CUDA-in-Windows/blob/master/Version.ipynb and paste it to your new python script in jupyter notebook. (Remember that you must in the tensorflow environment) 
 
 
